@@ -1,3 +1,13 @@
+MHRbosu is like bosu with different values and stuff...
+
+
+
+
+
+Bosu Description:
+
+
+
 # bosu
 A custom game mode for osu!lazer project based on "I wanna be the Boshy" game.
 
